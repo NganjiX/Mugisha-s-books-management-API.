@@ -1,0 +1,25 @@
+{
+  "name": "exam-templates",
+  "version": "1.0.0",
+  "description": "This is an exam to create an API to manage Mugisha's library.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NganjiX/Mugisha-s-books-management-API..git"
+  },
+  "keywords": [
+    "\"express\"",
+    "\"mongodb\"",
+    "\"books\""
+  ],
+  "author": "Nganji Heaven's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NganjiX/Mugisha-s-books-management-API./issues"
+  },
+  "homepage": "https://github.com/NganjiX/Mugisha-s-books-management-API.#readme"
+}
